@@ -1,3 +1,3 @@
 # util-tools
 
-Generic utility tools that can be used for different projects.
+Generic utility tools for the NTSA package.
