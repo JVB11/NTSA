@@ -1,0 +1,10 @@
+{
+    "cSpell.words": [
+        "getbasetemp",
+        "iargs",
+        "typer"
+    ],
+    "workbench.colorTheme": "Ayu Dark Bordered",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 79
+}
